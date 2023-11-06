@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.paul {
+  transition: .3s ease;
+}
+
+.paul:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+
+.paul.big-paul {
+  transform: scale(1.4);
+}

@@ -16,47 +16,47 @@ paul.addEventListener('click', () => {
 		shapes: ["image"],
 		shapeOptions: {
 			image: [{
-					src: "../images/paul1.png",
+					src: "images/paul1.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul1.png",
+					src: "images/paul1.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul2.png",
+					src: "images/paul2.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul3.png",
+					src: "images/paul3.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul4.png",
+					src: "images/paul4.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul5.png",
+					src: "images/paul5.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul6.png",
+					src: "images/paul6.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul7.png",
+					src: "images/paul7.png",
 					width: 32,
 					height: 32,
 				},
 				{
-					src: "../images/paul8.png",
+					src: "images/paul8.png",
 					width: 32,
 					height: 32,
 				},
